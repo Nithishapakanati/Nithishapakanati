@@ -11,6 +11,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Web+Development+Enthusiast;DSA+%7C+Problem+Solving;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nithisha-pakanati-89b152306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
